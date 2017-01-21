@@ -1,2 +1,2 @@
 # socket
-Repositorio del proyecto para la creación de sockets usando libreias de python
+Repositorio del proyecto para la creación de sockets usando librerias de python (ADAFRUIT)

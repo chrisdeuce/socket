@@ -2,8 +2,8 @@
 #Lectura de temperatura y presion del Sparkfun weather shield
 
 '''
-    udp socket client
-    Silver Moon
+    socket cliente tipo UDP
+
 '''
 
 import socket   #for sockets

@@ -1,6 +1,6 @@
 Proyecto STATION-X
 
-El proyecto consiste en sensar la Temperatura y Presión mediante una Sparkfun Weathe shield (https://www.sparkfun.com/products/12081),
+El proyecto consiste en sensar la Temperatura y Presión mediante una Sparkfun Weather Shield (https://www.sparkfun.com/products/12081),
  el Servidor estará esperando a que un cliente, dentro del dominio de este, solicite los datos del sensado. El Cliente hará una búsqueda por cada
  IP del dominio donde se encuentra hasta hallar al servidor para establecer una comunicación. EL cliente al recibir los datos los imprimirá en
  una LCD 16x2.
